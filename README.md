@@ -1,4 +1,4 @@
-# Advanced Typing Speed Test Challenge 🚀⌨️
+# Advanced Typing Speed Test Challenge 
 
 
 
