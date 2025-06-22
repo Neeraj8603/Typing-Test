@@ -1,6 +1,6 @@
 # Advanced Typing Speed Test Challenge 🚀⌨️
 
-![Typing Test Screenshot](https://via.placeholder.com/800x400.png?text=Typing+Test+Screenshot)
+
 
 A sophisticated typing speed test application with multiple modes, difficulty levels, and comprehensive statistics tracking to help you improve your typing skills.
 
