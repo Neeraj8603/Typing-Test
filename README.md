@@ -4,7 +4,7 @@
 
 A sophisticated typing speed test application with multiple modes, difficulty levels, and comprehensive statistics tracking to help you improve your typing skills.
 
-## Features ✨
+## Features :
 
 - **Multiple Test Modes**:
   - Timed mode (1-5 minutes)
@@ -34,7 +34,7 @@ A sophisticated typing speed test application with multiple modes, difficulty le
   - Virtual keyboard display
   - Sound effects toggle
 
-## How to Use 🛠️
+## How to Use:
 
 1. **Select Your Test Settings**:
    - Choose your preferred test mode
@@ -53,7 +53,7 @@ A sophisticated typing speed test application with multiple modes, difficulty le
    - Historical progress tracking
    - Achievement unlocks
 
-## Installation 💻
+## Installation :
 
 This is a pure client-side web application. No installation required! Simply:
 
@@ -63,14 +63,14 @@ This is a pure client-side web application. No installation required! Simply:
 
 For offline use, you can save the webpage (Ctrl+S/Cmd+S) and open it anytime.
 
-## Technical Details ⚙️
+## Technical Details :
 
 - **Frontend**: Pure HTML5, CSS3, and JavaScript
 - **Data Persistence**: Uses localStorage to save your statistics and preferences
 - **Responsive Design**: Works on desktop and mobile devices
 - **Accessibility**: Keyboard-navigable with visual feedback
 
-## Customization 🎨
+## Customization :
 
 Easily customize the app by editing the CSS variables at the top of the file:
 
@@ -83,7 +83,7 @@ Easily customize the app by editing the CSS variables at the top of the file:
 }
 ```
 
-## Contributing 🤝
+## Contributing :
 
 Contributions are welcome! Here's how you can help:
 
@@ -93,7 +93,7 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Acknowledgments 🙏
+## Acknowledgments:
 
 - Inspired by classic typing tutors like Mavis Beacon and TypeRacer
 - Test texts include famous quotes and original content
